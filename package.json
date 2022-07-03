@@ -1,0 +1,20 @@
+{
+  "name": "react-news-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Chanhui-Ho/react-news-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chanhui-Ho/react-news-system/issues"
+  },
+  "homepage": "https://github.com/Chanhui-Ho/react-news-system#readme"
+}
